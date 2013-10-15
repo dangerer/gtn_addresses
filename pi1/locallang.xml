@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for plugin &quot;tx_gtnaddresses_pi1&quot;</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="label_bezirk">Bezirk - Praxisort(e) </label>
+			<label index="label_plz">PLZ</label>
+			<label index="label_ort">Ort</label>
+			<label index="label_geschlecht">Geschlecht</label>
+			<label index="label_name">Name</label>
+			<label index="label_free">Freie Kassenplätze</label>
+			<label index="label_submit">Anwenden</label>
+			<label index="label_additional_submit">Erweiterte Suche</label> 
+			<label index="label_general_search">Einfache Suche</label> 
+			<label index="label_clear">Zurucksetzen</label>
+			<label index="label_stichwort">Stichwort</label>
+			<label index="label_free">Freie Kassenplätze</label>
+			<label index="woman">Frau</label>
+			<label index="man">Mann</label>
+			<label index="kassenplatze">Wenn Sie einen vollfinanzierten Kassenplatz suchen, bitte hier wechseln</label>
+			<label index="kassenplatze_free">Freie vollfinanzierte Kassenplatze</label>
+			
+			<label index="no_results">Für diese Kriterienkombination wurden keine Einträge gefunden...</label>
+			
+			<label index="jahrgang">Jahrgang</label>
+			<label index="iaus">In Ausbildung unter Supervision</label> 
+			<label index="free_kassen2">Freie Kassenplätze</label> 
+			<label index="aus_weiterbildungen">Aus- und Weiterbildungen</label> 
+			<label index="fe_submitted">Verfasst von</label> 
+			<label index="am_for_date">am</label> 
+			<label index="bereiche">Ubergeordnete Bereiche</label> 
+			
+			
+			
+			<label index="back">Zuruck</label> 
+			
+			
+
+		</languageKey>
+	</data>
+</T3locallang>

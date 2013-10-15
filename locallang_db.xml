@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'gtn_addresses'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.list_type_pi1">GTNAddressearch</label>
+			<label index="tx_gtnaddresses_data">Addressdata</label>
+			<label index="tx_gtnaddresses_data.nachname">Nachname</label>
+			<label index="tx_gtnaddresses_data.vorname">Vorname</label>
+			<label index="tx_gtnaddresses_data.titel">Titel</label>
+			<label index="tx_gtnaddresses_data.geschlecht.I.0">Frau</label>
+			<label index="tx_gtnaddresses_data.geschlecht.I.1">Mann</label>
+			<label index="tx_gtnaddresses_data.geschlecht">Geschlecht</label>
+			<label index="tx_gtnaddresses_data.jahrgang">Jahrgang</label>
+			<label index="tx_gtnaddresses_data.praxis_plz">PLZ Praxis</label>
+			<label index="tx_gtnaddresses_data.praxis_ort">Ort Praxis</label>
+			<label index="tx_gtnaddresses_data.praxis_adresse">Adresse Praxis</label>
+			<label index="tx_gtnaddresses_data.aus_weiterbildung">Aus und Weiterbildung</label>
+			<label index="tx_gtnaddresses_data.html_format.I.0">Html gefiltert</label>
+			<label index="tx_gtnaddresses_data.html_format.I.1">Html vollständig</label>
+			<label index="tx_gtnaddresses_data.html_format">Html Format</label>
+			<label index="tx_gtnaddresses_data.praxis2_plz">PLZ 2 Praxis</label>
+			<label index="tx_gtnaddresses_data.praxis2_ort">Ort2 Praxis</label>
+			<label index="tx_gtnaddresses_data.praxis2_adresse">Adresse2 Praxis</label>
+			<label index="tx_gtnaddresses_data.iaus">In Ausbildung unter Supervision</label>
+			<label index="tx_gtnaddresses_data.freiekassenplaetze_abkw">freie Kassenplätze</label>
+			<label index="tx_gtnaddresses_data.freiekassenplaetze2">Freie vollfinanzierte Kassenplätze</label>
+			<label index="tx_gtnaddresses_data.email">E-Mail</label>
+			<label index="tx_gtnaddresses_data.telefon">Telefon</label>
+			<label index="tx_gtnaddresses_data.images">Bilder</label>
+			<label index="tx_gtnaddresses_data.web_adresse">Webadresse</label>
+			<label index="tx_gtnaddresses_data.vid">vid</label>
+			<label index="tx_gtnaddresses_data.nid">nid</label>
+			<label index="tx_gtnaddresses_data.fe_uid">Frontend Userid</label>
+			<label index="tx_gtnaddresses_data.edited_from">geändert von</label>
+			<label index="tx_gtnaddresses_data.bezeichnung">Bezeichnung</label>
+			<label index="tx_gtnaddresses_data.promote">Auf der Startseite</label>
+			<label index="tx_gtnaddresses_data.sticky">Oben in Listen</label>
+			<label index="tx_gtnaddresses_data.revision_titel">Titel Revision</label>
+			<label index="tx_gtnaddresses_data.beschreibung">Beschreibung</label>
+			<label index="tx_gtnaddresses_data.teaser">Teaser</label>
+			<label index="tx_gtnaddresses_data.dateien">Dateien</label>
+			<label index="tx_gtnaddresses_data.signature">Signatur</label>
+			<label index="tx_gtnaddresses_data.usersdata">Tabelle Users Feld data</label>
+			<label index="tx_gtnaddresses_data.cat">Kategorie</label>
+			<label index="tx_gtnaddresses_cat">Kategorien</label>
+			<label index="tx_gtnaddresses_cat.title">Titel</label>
+			<label index="tx_gtnaddresses_cat.description">Beschreibung</label>
+			<label index="tx_gtnaddresses_cat.weight">Gewichtung</label>
+			<label index="tx_gtnaddresses_cat.cattype">Kategorie Klasse</label>
+			<label index="tx_gtnaddresses_cattypes">Kategorie Klasse</label>
+			<label index="tx_gtnaddresses_cattypes.title">Titel</label>
+			<label index="tx_gtnaddresses_cattypes.description">Beschreibung</label>
+			<label index="tx_gtnaddresses_cattypes.multiple">Mehrfachauswahl</label>
+		</languageKey>
+	</data>
+</T3locallang>
